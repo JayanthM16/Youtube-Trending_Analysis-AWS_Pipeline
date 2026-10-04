@@ -3,7 +3,6 @@
 
 A serverless data lake pipeline that ingests raw YouTube trending video data (CSV statistics and JSON category reference files), cleans and converts it to Parquet, joins it into an analytics table, and serves it to Amazon Athena and Amazon QuickSight.
 
-Master's coursework project, University of Massachusetts Dartmouth, 2025. Built by a team of two: Jayanth Mekala and Rishindra Chowdhary Maddineni.
 
 ## Architecture
 
